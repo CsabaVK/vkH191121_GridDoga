@@ -1,0 +1,78 @@
+
+14SZ Wikipedia
+
+    Kezdőlap
+    Tartalom
+    Kiemelt szócikkek
+    Friss változtatások
+    Lap találomra
+    Tudakozó
+
+Részvétel
+
+    Kezdőknek
+    Segítség
+    Közösségi portál
+    Kapcsolatfelvétel
+    Adományok
+
+Nyomtatás/exportálás
+
+    Könyv készítése
+    Letöltés PDF-ként
+    Nyomtatható változat
+
+Eszközök
+
+    Mi hivatkozik erre
+    Kapcsolódó változtatások
+    Speciális lapok
+    Hivatkozás erre a változatra
+    Lapinformációk
+    Wikidata-adatlap
+    Hogyan hivatkozz erre a lapra
+
+Szoftverprojekt-menedzsment
+A Wikipédiából, a szabad enciklopédiából
+
+A szoftverprojekt-menedzsment a projektmenedzsment(https://hu.wikipedia.org/wiki/Projektmenedzsment) azon része, amely a szoftverfejlesztési(https://hu.wikipedia.org/wiki/Szoftver) projektek tervezésével, ellenőrzésével és végrehajtásával foglalkozik.
+	Tartalomjegyzék
+1 	Projekttervezés
+2 	Projekt követés és ellenőrzés
+3 	Szoftver követelmények
+4 	Kockázatmenedzsment
+5 	Szoftverprojektek problémái
+6 	Lásd még
+7 	Külső hivatkozások
+Projekttervezés [Szerkesztés]
+
+A projekttervezés célja a projekt terjedelmének (scope) meghatározása, a munka becslése, a projekt ütemezés elkészítése. A projekttervezés a ügyfél igényeinek, a projekt követelményeinek meghatározásával kezdődik. Ezek alapján elkészül a projektterv amely tartalmazza az elvégzéshez szükséges feladatokat.
+Projekt követés és ellenőrzés[Szerkesztés]
+
+A projekt követés és ellenőrzés célja a projektmenedzser, a szponzor, a projekttagok és a menedzsment részére a projekt előrehaladásáról, állapotáról jelentés készítése. Ha a projekt eltér a tervtől, a projektmenedzser intézkedhet. A projektmenedzser státuszmegbeszélések segítségével kaphat információkat a projekttagoktól. A változások projektbe építéséért a változáskezelési eljárás a felelős.
+Szoftver követelmények[Szerkesztés]
+
+Projekt követelményeinek meghatározása során az üzleti elemző vagy tervező meghatározza az üzleti igényeket. A szoftver követelmények alapján tervezik meg a megoldást.
+Kockázatmenedzsment[Szerkesztés]
+
+Kockázatmenedzsment tárgya a projekt kockázatok meghatározása, mérése, kezelése, felügyelete ill. követése. Általánosságban a kockázat kezelése magában foglalja a kockázat elkerülését, a kockázat más szereplőre való átruházását, a káros hatások csökkentését vagy a kockázat következményeinek elfogadását. A hagyományos kockázat menedzsment a természeti ill. jogi esetekre korlátozódik (természeti katasztrófa, tűz, baleset, haláleset, jogi perek).
+Szoftverprojektek problémái[Szerkesztés]
+
+A problémák 3 különböző nézőpontból erednek: projektmenedzser, fejlesztők, ügyfelek.[Szerkesztés]
+
+    A projektmenedzserhez köthető problémák: a szerepek meghatározásának hiánya, becslési és tervezési képesség hiánya, döntési képesség hiánya. A projektmenedzsernek figyelnie kell a idő-költség-minőség 3 alapvető korlátjára.
+    A fejlesztőhöz köthető problémák: az alkalmazás hiányos ismerete, a fejlesztői eljárások ismeretének hiánya, a leírások frissítésének a hiánya, határidő betartása, alkalmazás követelményeinek a változása.
+    Az ügyfélhez köthető problémák: pénzügyi korlátok, határidőn túli szállítás.
+
+Lásd még[Szerkesztés]
+
+    Becslés
+    Becslés a szoftverfejlesztésben
+    Projektmenedzsment
+    Kockázatmenedzsment
+    Szoftverfejlesztési módszerek
+
+A lap utolsó módosítása: 2017. október 2., 02:22
+
+A lap szövege Creative Commons Nevezd meg! – Így add tovább! 3.0 licenc alatt van; egyes esetekben más módon is felhasználható. Részletekért lásd a felhasználási feltételeket.
+ 

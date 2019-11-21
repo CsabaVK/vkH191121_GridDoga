@@ -1,0 +1,133 @@
+/**
+ * Element level selectors
+ *
+ */
+
+body{  
+    margin: 0;    
+    padding: 0;   
+    background-color: #f6f6f6;
+    height: calc(100vh - 80px);
+}
+p, table, .ul-width-style{
+    font-size: 18px;    
+}
+td:nth-child(2){
+    color: #0d45ba;
+}
+h1, h3{
+    padding-bottom: 5px;
+    border-bottom: 1px  solid gray;
+    font-family: 'Linux Libertine','Georgia','Times',serif;    
+}
+a{
+    text-decoration: none;
+    color: #0d45ba;   
+}
+/**
+* Class level selectors
+*
+*/ 
+
+.header{
+   
+   padding: 20px;
+   font-size: 20px;
+   line-height: 20px;
+   height: 20px;  
+}
+
+.span{
+    color: white;          
+    border-right: 1px solid white;      
+    padding: 0 10px;     
+    text-align: center;     
+    display: inline-block;    
+}
+.span:last-child{
+    border: none;
+}
+
+.non-style{
+    line-height: 25px;
+}
+
+
+.large-font{
+    font-size: 18px;
+    color: black;
+}
+.blue{
+    color: #0d45ba;
+}
+
+/**
+* Idinfitier level selectors
+*/
+#g1{
+    /*GRID*/
+}
+#aside{
+    grid-area: aside;
+    padding: 20px;
+}
+#section{
+    grid-area: section;
+    padding: 20px;
+    font-size: 20px;
+    line-height: 20px;
+    height: 20px; 
+}
+
+#article{
+    grid-area: article;
+    background-color: white;
+    padding-left: 30px;
+    color: white;
+    background-image: linear-gradient(to right, darkblue 200px, black 300px);
+}
+#footer{
+    grid-area: footer;
+}
+
+
+#table{   
+    /*keret
+    * sormagasság
+    * háttérszín
+    */
+    padding: 5px;
+    text-align: left;
+}
+th{
+    padding-right: 10px;
+}
+
+.aside2{
+grid-area: aside2;
+background-color: black;
+padding: 20px;
+}
+.section{ 
+}
+.article2{
+}
+.footer2{
+grid-area: footer2;
+
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+      'article article article article article article'
+      'aside2 section section section section section'
+      'aside2 section section section section section'
+      'aside2 footer2 footer2 footer2 footer2 footer2';
+    padding: 10px;
+}
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    
+    padding: 20px 0;
+}
